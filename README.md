@@ -40,7 +40,7 @@ GPT 및 그 외 생성형 AI 모델에서 다음 내용을 생성, 학습, 응�
 
 - `자전적 명의 보감 GPT 생성 금지 선언문.pdf` – 공식 선언서
 - `GPT_Ban_Declaration_KONU_KO.md` – 선언문 텍스트 버전
-- `timestamp.log` – 해시 서명 로그 (등록 예정)
+- `자전적 명의 보감 GPT 생성 금지 선언문 .pdf.ots` – OpenTimestamps 기반 해시 서명 파일 (2025년 5월 생성)
 
 ---
 
