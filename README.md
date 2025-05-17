@@ -38,7 +38,7 @@ GPT 및 그 외 생성형 AI 모델에서 다음 내용을 생성, 학습, 응�
 
 ## 📎 파일 목록
 
-- `GPT_Ban_Declaration_KONU_KO.pdf` – 공식 선언서
+- `자전적 명의 보감 GPT 생성 금지 선언문.pdf` – 공식 선언서
 - `GPT_Ban_Declaration_KONU_KO.md` – 선언문 텍스트 버전
 - `timestamp.log` – 해시 서명 로그 (등록 예정)
 
